@@ -15,7 +15,7 @@
         <!-- Responsive navbar-->
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container">
-                <a class="navbar-brand" href="#">INDEX</a>
+                <a class="navbar-brand">INDEX</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
@@ -35,14 +35,14 @@
         <!-- Page content-->
         <h1>Soulwax</h1>
                 <p><strong>Soulwax</strong>
-                    Soulwax (also known as <strong>2 Many DJ's</strong> in their guise as <a
+                    Soulwax (also known as <strong>2 Many DJ's</strong> in their guise as <link><a
                         href="https://es.wikipedia.org/wiki/Disc_jockey"> disc jockeys</a> ) is an <a
                         href="https://es.wikipedia.org/wiki/Rock_electr%C3%B3nico"> electronic </a> </a> and <a
                         href="https://es.wikipedia.org/wiki/Rock_alternativo">alternative </a> rock band from <a
                         href="https://es.wikipedia.org/wiki/Gante"> Ghent </a>, <a
                         href="https://es.wikipedia.org/wiki/B%C3%A9lgica"> Belgium </a> and fronted by brothers David and Stephen
                     Dewaele.
-                </p>
+                </link> </p>
         <div class="container">
             <div class="text-center mt-3">
                 
@@ -58,12 +58,12 @@
                         <!--Paste everything from a block notes because gitpod wasnt working-->
                         <tr>
                             <td colspan="3" style="text-align:center;width:70%;">
-                                <a href="//commons.wikimedia.org/wiki/File:Rock_en_Seine_2007,_2_Many_DJs-3.jpg" class="image"><img
+                               <link> <a href="//commons.wikimedia.org/wiki/File:Rock_en_Seine_2007,_2_Many_DJs-3.jpg" class="image"><img
                                         alt="Rock en Seine 2007, 2 Many DJs-3.jpg"
                                         src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Rock_en_Seine_2007%2C_2_Many_DJs-3.jpg/250px-Rock_en_Seine_2007%2C_2_Many_DJs-3.jpg"
                                         decoding="async" width="250" height="167"
                                         srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Rock_en_Seine_2007%2C_2_Many_DJs-3.jpg/375px-Rock_en_Seine_2007%2C_2_Many_DJs-3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Rock_en_Seine_2007%2C_2_Many_DJs-3.jpg/500px-Rock_en_Seine_2007%2C_2_Many_DJs-3.jpg 2x"
-                                        data-file-width="3500" data-file-height="2000"></a><br>
+                                        data-file-width="3500" data-file-height="2000"></link></a><br>
                                 <div style="display:inline;">
                                     <font style="vertical-align: inherit;">
                                         <font style="vertical-align: inherit;">In concert as </font>
@@ -99,15 +99,15 @@
                                 </font>
                             </th>
                             <td colspan="2" style="width:70%;">
-                                <a href="/wiki/Gante" title="Ghent">
+                              <link>  <a href="/wiki/Gante" title="Ghent">
                                     <font style="vertical-align: inherit;">
                                         <font style="vertical-align: inherit;">Ghent</font>
                                     </font>
-                                </a>
+                                </a></link>
                                 <font style="vertical-align: inherit;">
                                     <font style="vertical-align: inherit;"> , </font><a href="/wiki/B%C3%A9lgica" title="Bélgica">
                                         <font style="vertical-align: inherit;">Belgium</font>
-                                    </a>
+                                    </a></link>
                                 </font><span class="flagicon"><a
                                         href="//commons.wikimedia.org/wiki/File:Flag_of_Belgium_(civil).svg" class="image"
                                         title="belgium flag"><img alt="belgium flag"
@@ -117,7 +117,7 @@
                                             data-file-width="900" data-file-height="600"></a>&nbsp;</span><a
                                     href="/wiki/B%C3%A9lgica" title="Belgium">
                                     <font style="vertical-align: inherit;"></font>
-                                </a>
+                                </a><7link>
                             </td>
                         </tr>
                         <tr>
@@ -146,13 +146,13 @@
                                     <font style="vertical-align: inherit;">
                                         <font style="vertical-align: inherit;">Genders</font>
                                     </font>
-                                </a></th>
+                                </a></link></th>
                             <td colspan="2" style="width:70%;">
                                 <a href="/wiki/House_(m%C3%BAsica)" title="House (music)">
                                     <font style="vertical-align: inherit;">
                                         <font style="vertical-align: inherit;">House </font>
                                     </font>
-                                </a><br><a href="/wiki/Dance" class="mw-redirect" title="dancing">
+                                </a><link><br><a href="/wiki/Dance" class="mw-redirect" title="dancing">
                                     <font style="vertical-align: inherit;">
                                         <font style="vertical-align: inherit;">Dance </font>
                                     </font>
